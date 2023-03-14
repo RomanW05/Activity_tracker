@@ -1,10 +1,8 @@
 This repo is for personal use. It will track your activity by logging every second which one is your active element on your desktop. Later on with the file "analyze_tracker.py" you will know how long did you spend using what and make statistics about it
 # INSTALLATION
-
 ## For Linux
     Download the project and unzip it
-    Make the file 'window_tracker.sh' executable. Open a terminal and go to the project folder. Run 
-<pre><code>chmod +x window_tracker.sh</code></pre>
+    Make the file 'window_tracker.sh' executable. Open a terminal and go to the project folder. Run <pre><code>chmod +x window_tracker.sh</code></pre>
     Install xdotool with <code>apt-get install xdotool</code>
     Add window_tracker to starup aplications:
         • Open the "Startup Applications" utility
