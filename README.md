@@ -1,3 +1,4 @@
+This repo is for personal use. It will track your activity by logging every second which one is your active element on your desktop. Later on with the file "analyze_tracker.py" you will know how long did you spend using what and make statistics about it
 # INSTALLATION
 
 ## For Linux
