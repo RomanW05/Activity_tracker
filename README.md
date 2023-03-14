@@ -3,10 +3,10 @@ This repo is for personal use. It will track your activity by logging every seco
 
 # INSTALLATION
 ## For Linux
-Download the project and unzip it
-Make the file 'window_tracker.sh' executable. Open a terminal and go to the project folder. Run <code>chmod +x window_tracker.sh<code>
-Install xdotool with <code>apt-get install xdotool</code>
-Add window_tracker to starup aplications:
+- Download the project and unzip it
+- Make the file 'window_tracker.sh' executable. Open a terminal and go to the project folder. Run <pre><code>chmod +x window_tracker.sh<code><pre>
+- Install xdotool with <pre><code>apt-get install xdotool</code><pre>
+- Add window_tracker to starup aplications:
     • Open the "Startup Applications" utility
     • Click on "Add"
     • Enter any name you want for the command
@@ -14,10 +14,10 @@ Add window_tracker to starup aplications:
     • Click on "Add"
 
 ## For Windows
-Download the project and unzip it
-Install  AutoIt v3, a freeware scripting program that uses a programming language similar to BASIC which can be downloaded at [Autoit v3](https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.zip)
-Right click on the file "window_tracker.au3" and select "compile 32bits". It created the file window_tracker.exe
-Add window_tracker to starup aplications:
+- Download the project and unzip it
+- Install  AutoIt v3, a freeware scripting program that uses a programming language similar to BASIC which can be downloaded at [Autoit v3](https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.zip)
+- Right click on the file "window_tracker.au3" and select "compile 32bits". It created the file window_tracker.exe
+- Add window_tracker to starup aplications:
     • Right-click on the shortcut of the file you want to add to startup and select "Copy"
     • Press the Windows logo key + R to open the Run dialog box
     • Type shell:startup in the Run dialog box and press Enter. This will open the Startup folder
