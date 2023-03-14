@@ -6,7 +6,7 @@ This repo is for personal use. It will track your activity by logging every seco
 - Download the project and unzip it
 - Make the file 'window_tracker.sh' executable. Open a terminal and go to the project folder. Run <code>chmod +x window_tracker.sh</code>
 - Install xdotool with <code>apt-get install xdotool</code>
-- Add window_tracker to starup aplications:
+Add window_tracker to starup aplications:
     • Open the "Startup Applications" utility
     • Click on "Add"
     • Enter any name you want for the command
